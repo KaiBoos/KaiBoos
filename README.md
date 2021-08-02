@@ -8,6 +8,10 @@ The most fun, active project I'm working on is a cocktailmachine programmed with
 <br>
 I really like the challenge of not only creating something, but also breaking things down (like complex processes).<br>
 <br>
+I haven't published any Repositories as I am still working on improvement.<br>
+Rest assured ... they're coming ✔
+<br>
+
 <b>Languages:</b> <br>
 - C++
 - Python
@@ -17,8 +21,6 @@ I really like the challenge of not only creating something, but also breaking th
 
 
 
-I haven't published any Repositories as I am still working on improvement.<br>
-Rest assured ... they're coming ✔
 
 <!---
 KaiSchmidtner/KaiSchmidtner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
