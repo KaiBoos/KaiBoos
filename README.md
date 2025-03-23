@@ -1,8 +1,8 @@
 <b>Hey, I'm Kai Boos! ✌ </b>
 
 <br>
-I am practocing my language skills on a daily basis, overwhelmingly in privat projects.<br>
-The most fun, active project I'm working on is a cocktailmachine programmed with Qt (C++) on a raspberry pi.<br>
+I am practicing my language skills on a daily basis, overwhelmingly in privat projects.<br>
+The most fun, active project I'm working on is a cocktailmachine programmed with Qt (C++) and connected to an Arduino.<br>
 <br>
 I haven't published any Repositories as I am still working on improvement.<br>
 Rest assured ... they're coming ✔
